@@ -1,0 +1,10 @@
+version: '3'
+services:
+  folio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    container_name: folio
+    ports:
+      - "3002:3000"
