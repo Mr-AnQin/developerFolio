@@ -47,6 +47,13 @@ export default function Greeting() {
                     href={greeting.resumeLink}
                   />
                 )}
+                {greeting.panel && (
+                    <Button
+                        text="Panel (Password)"
+                        newTab={true}
+                        href={greeting.panel}
+                    />
+                )}
               </div>
             </div>
           </div>

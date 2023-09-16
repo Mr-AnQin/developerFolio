@@ -27,7 +27,13 @@ const greeting = {
     ),
     resumeLink:
         "https://blog.anqin.cc", // Set to empty to hide the button
+
+    panel:
+        "https://dash.anqin.cc",
+
     displayGreeting: true // Set false to hide this section, defaults to true
+
+
 };
 
 // Social Media Links
