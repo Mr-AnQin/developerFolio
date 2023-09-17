@@ -1,9 +1,7 @@
 version: '3'
 services:
   folio:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: aqlog-docker.pkg.coding.net/developerfolio/folio/folio:latest
     restart: always
     container_name: folio
     ports:

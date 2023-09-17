@@ -70,21 +70,85 @@ const skillsSection = {
             fontAwesomeClassname: "fab fa-java"
         },
         {
-            skillName: "JavaScript",
-            fontAwesomeClassname: "fab fa-js"
+            skillName: "SpringBoot",
+            fontAwesomeClassname: "fa fa-leaf"
         },
         {
-            skillName: "sql-database",
+            skillName: "Git",
+            fontAwesomeClassname: "fab fa-git-alt"
+        },
+        {
+            skillName: "Jenkins",
+            fontAwesomeClassname: "fab fa-jenkins"
+        },
+        {
+            skillName: "Sql-database",
             fontAwesomeClassname: "fas fa-database"
         },
         {
-            skillName: "python",
+            skillName: "Docker",
+            fontAwesomeClassname: "fab fa-docker"
+        },
+        {
+            skillName: "Linux",
+            fontAwesomeClassname: "fab fa-linux"
+        },
+        {
+            skillName: "CentOS",
+            fontAwesomeClassname: "fab fa-centos"
+        },
+        {
+            skillName: "Ubuntu",
+            fontAwesomeClassname: "fab fa-ubuntu"
+        },
+        // {
+        //     skillName: "Debian",
+        //     fontAwesomeClassname: "fa-brands fa-debian"
+        // },
+        {
+            skillName: "Powershell",
+            fontAwesomeClassname: "fa fa-terminal"
+        },
+        {
+            skillName: "TencentCloud",
+            fontAwesomeClassname: "fa fa-cloud"
+        },
+        {
+            skillName: "Markdown",
+            fontAwesomeClassname: "fab fa-markdown"
+        },
+        {
+            skillName: "Github",
+            fontAwesomeClassname: "fab fa-github"
+        },
+        {
+            skillName: "Wordpress",
+            fontAwesomeClassname: "fab fa-wordpress"
+        },
+        {
+            skillName: "ChatGPT",
+            fontAwesomeClassname: "fa fa-comment-dots"
+        },
+        {
+            skillName: "Nodejs",
+            fontAwesomeClassname: "fab fa-node"
+        },
+        {
+            skillName: "Npm",
+            fontAwesomeClassname: "fab fa-npm"
+        },
+        {
+            skillName: "Html-5",
+            fontAwesomeClassname: "fab fa-html5"
+        },
+        {
+            skillName: "Python",
             fontAwesomeClassname: "fab fa-python"
         },
         {
-            skillName: "docker",
-            fontAwesomeClassname: "fab fa-docker"
-        }
+            skillName: "JavaScript",
+            fontAwesomeClassname: "fab fa-js"
+        },
     ],
     display: true // Set false to hide this section, defaults to true
 };
